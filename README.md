@@ -1,4 +1,4 @@
-# Pharmacy-System
+# Pharmacy-Management-System
 
 ## Overview
 Pharmacy-System is a project that is implemented for the eradication of the problems faced by the pharmacies such as generating monthly ledger , maintaining drugs stocks, check of expiry date of drugs etc. which are difficult in manual system. The project is implemented in Java and the UI is made in Java-Swing. For storing the data, a local database of MySQL is used.
